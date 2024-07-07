@@ -17,11 +17,6 @@ This project is a full-stack application implementing user authentication. It in
 └── README.md
 ```
 
-## Prerequisites
-
-- Node.js (>=14.x)
-- npm (>=6.x) or pnpm (>=6.x)
-
 ## Installation
 
 1. Clone the repository:
